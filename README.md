@@ -8,8 +8,8 @@ Le but est de pouvoir parcourir les communes et leur historique depuis le end-po
 Chaque commune possède un identifiant unique : TYPE-CODEINSEE@DATE_EVT_CREATION
 
 Exemple :
-Tartampion 27455 Tartampion 27455 le 1er janvier 1970
-a considéré comme deux objets distincts même si le cas semble bizarre, du point de vue de la base de données, il faut le considérer comme deux objets distincts. Ici, avec deux identifiants :
+Tartampion 27455 devient Tartampion 27455 le 1er janvier 1970
+à considérer comme deux objets distincts même si le cas semble bizarre, du point de vue de la base de données, il faut le considérer comme deux objets distincts. Ici, avec deux identifiants :
 COM-27455@1943-01-01 
 COM-27455@1970-01-01
 
